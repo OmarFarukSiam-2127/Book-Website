@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    padding: 0;
+  }
+  p{
+    margin: 0;
+  }
+  .logo{
+    width: 80px;
+  }
+  
+  
+  .text-color{
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  .text-color:hover{
+    color: blueviolet;
+  }
+  .manual-button{
+    background-color: rgb(51, 165, 241);
+    color: black;
+  }
+  .manual-button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  .manual-toggler{
+    background-color: white;
+  }
+
+
+
+  .button{
+    text-align: center;
+    margin-top: 15px;
+  }
+  .container-custom{
+    margin-top: 120px;
+    margin-left: 30%;
+  }
+  .custom{
+    background-color: rgb(111, 185, 185);
+  }
+  .text{
+    text-align: right;
+  }
